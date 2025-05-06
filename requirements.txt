@@ -1,0 +1,11 @@
+pytorch-lightning
+hydra-core
+wandb
+fastapi
+uvicorn
+torch
+torchvision
+pydantic
+loguru
+pytest
+flake8
